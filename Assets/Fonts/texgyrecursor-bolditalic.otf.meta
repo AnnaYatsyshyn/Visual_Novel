@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 65448e450087e2640ba7753753618374
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - TeX Gyre Cursor
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d2da25409b1806b49bfca3318e01268b, type: 3}
+  - {fileID: 12800000, guid: 45f82ad5e1ca44e4faeefa1befde2424, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

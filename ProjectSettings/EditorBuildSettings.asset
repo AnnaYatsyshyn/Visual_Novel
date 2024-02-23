@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 4b7b2a987ce55e74ebd52ff259cc8d5e
+  - enabled: 1
+    path: Assets/Scenes/Bus_Scene.unity
+    guid: 54b6816e8bff7c24b97da368df0f39c3
+  - enabled: 1
+    path: Assets/Scenes/WorryBag.unity
+    guid: 4422bc2df80b07c44878cf256eb58de0
+  - enabled: 1
+    path: Assets/Scenes/School.unity
+    guid: 7eb667e816b64e0429bc7870d5480433
+  - enabled: 1
+    path: Assets/Scenes/Class.unity
+    guid: 567900608ca293643b12cd2b83e8f4b3
+  - enabled: 1
+    path: Assets/Scenes/IT.unity
+    guid: 8d5bde56a955aa744b4d11728ed62e0f
+  - enabled: 1
+    path: Assets/Scenes/Corridor2.unity
+    guid: 3eb32ea2715cf784a9d48aac1dec658f
+  - enabled: 1
+    path: Assets/Scenes/Corridor.unity
+    guid: 5ea6e9fa4e577ba46b2c53e3b769dbe9
+  m_configObjects: {}

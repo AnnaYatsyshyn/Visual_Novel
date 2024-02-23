@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: cfd5a2b5354da9443aa96f2672c5887d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Czizh
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: dab074165b52e6447b83a9bef8927a38, type: 3}
+  - {fileID: 12800000, guid: 323198fd72767cc4882641a5058da5f9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
